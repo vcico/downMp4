@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {
+        "joshcam/mysqli-database-class": "^2.8",
+        "stil/xpath-selector": "^2.0"
+    }
+}
